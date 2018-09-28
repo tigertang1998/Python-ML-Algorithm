@@ -1,4 +1,4 @@
-# Pythyon ML Algorithm
+# Python Implementation of ML Algorithm
 
 Currently studying https://www.coursera.org/learn/machine-learning
 
